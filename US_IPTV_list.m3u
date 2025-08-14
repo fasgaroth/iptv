@@ -1,0 +1,177 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="WUPADT1.us@SD",WUPA-DT1
+https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8
+
+#EXTINF:-1 tvg-id="WOLODT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="Undefined",WOLO-DT1 ABC 25 (Columbia SC) (720p)
+http://143.244.60.30/ABC_EAST/index.m3u8
+
+#EXTINF:-1 tvg-id="WBZDT1.us" tvg-logo="https://i.imgur.com/NC5qL8u.png" group-title="News",WBZ-DT1 (720p)
+http://143.244.60.30/CBSEAST/index.m3u8
+
+#EXTINF:-1 tvg-id="NBC.us",NBC
+https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" http-referrer="https://www.newslive.com/" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",Fox News Channel (720p)
+#EXTVLCOPT:http-referrer=https://www.newslive.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-logo="https://i.imgur.com/kGUR6NE.png" group-title="News",MSNBC (720p)
+http://41.205.93.154/MSNBC/index.m3u8
+
+#EXTINF:-1 tvg-id="ABC.us",ABC
+http://41.205.93.154/ABC/index.m3u8
+
+#EXTINF:-1 tvg-id="CNBCWorld.us",CNBC World
+https://fl3.moveonjoy.com/CNBC_World/index.m3u8
+
+#EXTINF:-1 tvg-id="AXSTV.us",AXS TV
+https://fl3.moveonjoy.com/Axs_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="TeenNick.us",TeenNick
+https://fl3.moveonjoy.com/Teen_Nick/index.m3u8
+
+#EXTINF:-1 tvg-id="WSBDT1.us@SD",WSB-DT1
+https://dvrfl03.bozztv.com/hondu/hondu-rick-abc/index.m3u8
+
+#EXTINF:-1 tvg-id="WKMGDT1.us@SD",WKMG-DT1
+https://dvrfl03.bozztv.com/hondu-cbsorlando/index.m3u8
+
+#EXTINF:-1 tvg-id="WHSGDT4.us@SD",WHSG-DT4
+https://dvrfl03.bozztv.com/hondu/hondu-ovair1-enlacetv-atl/index.m3u8
+
+#EXTINF:-1 tvg-id="WLVTDT1.us@SD",WLVT-DT1
+https://dvrfl03.bozztv.com/hondu/hondu-gbp-pbs/index.m3u8
+
+#EXTINF:-1 tvg-id="Decades.us@SD",Decades
+https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-decades/index.m3u8
+
+#EXTINF:-1 tvg-id="PositivTV.us@SD",Positiv TV
+https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="LivingFaithTV.us",Living Faith TV (540p)
+https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
+
+#EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us",ABN Bible Movies (720p)
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 tvg-id="BBCAmerica.us",BBC America
+https://dvrfl04.tulix.tv/teleup-bbca/index.m3u8
+
+#EXTINF:-1 tvg-id="WGCLDT1.us@SD",WGCL-DT1
+https://live20.bozztv.com/dvrfl05/gin-cbs/index.m3u8
+
+#EXTINF:0,Alfred Hitchcock Presents
+https://xumo-xumoent-ch825-ku23q.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="Journy.us",Journy (720p)
+https://linear-291.frequency.stream/dist/ovationtv/291/hls/master/playlist.m3u8
+
+#EXTINF:0,ABC News
+https://c.mjh.nz/abc-news.m3u8
+
+#EXTINF:-1 tvg-id="ABCME.au@Sydney",ABC Me Sydney (720p)
+https://c.mjh.nz/abc-me.m3u8
+
+#EXTINF:-1 tvg-id="",ABN Freedom of Speech
+https://mediaserver.abnvideos.com/streams/freedom_of_speech.m3u8
+
+#EXTINF:-1 tvg-id="AlbdreamsTV.us",AlbDreams TV (720p)
+http://live.albavision.net:1123/live/albdreams.m3u8
+
+#EXTINF:-1 tvg-id="BeachTVFloridaAlabama.us",Beach TV Florida & Alabama (720p)
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BeachTVPanamaCity.us",Beach TV Panama City (720p)
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BEKNews.us",BEK TV News (720p)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BizTV.us",Biz TV (1080p)
+https://thegateway.app/BizAndYou/BizTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTV.us",Bloomberg TV US (720p)
+https://bloomberg.com/media-manifest/streams/us.m3u8
+
+#EXTINF:-1 tvg-id="CatholicFaithNetwork.us",CFN Catholic Faith Network (720p)
+https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CloudflareTV.us",Cloudflare TV (720p)
+https://cloudflare.tv/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="CaliforniaMusicChannel.us",CMC (California Music Channel)
+https://cmc-ono.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dateline247.us",Dateline 24/7
+https://dz59iptwz5rxs.cloudfront.net/live/mas
+
+#EXTINF:-1 tvg-id="EntertainmentTonight.us",Entertainment Tonight (720p)
+https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/amagi7b98-AmagiMixible/master/amagi7b98-AmagiMixible.m3u8
+
+#EXTINF:-1 tvg-id="",Everyday Refresh
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/maste
+
+#EXTINF:-1 tvg-id="FashionFinds.us",Fashion Finds
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
+
+#EXTINF:-1 tvg-id="FreeSpeechTV.us",Free Speech TV (720p)
+https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
+
+#EXTINF:-1 tvg-id="GemShoppingNetwork.us",Gem Shopping Network (720p)
+https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Go2Travel.us",Go2Travel (1080p)
+https://go2thls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="HollyWire.us",HollyWire (720p)
+https://bozztv.com/hwotta/playlist/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IntheKitchen.us",In the kitchen
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
+
+#EXTINF:-1 tvg-id="KRISDT1.us",KRIS-DT1 (720p)
+https://content.uplynk.com/channel/f805c6ab7ddf4e2489ae648bb28fb133.m3u8
+
+#EXTINF:-1 tvg-id="LIVExLIVE.us",LiveXLive
+https://livestream.liveone.com/lc1/p1.m3u8
+
+#EXTINF:-1 tvg-id="TurismoHD.us",Turismo HD (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Freeform.us",Freeform (720p)
+https://tvpass.org/live/FreeformEast/hd
+
+#EXTINF:-1 tvg-id="SBNTVInternational.us@SD",SBN TV International
+http://trn03.bozztv.com/gin-sbntv/index.m3u8
+
+#EXTINF:-1 tvg-id="WAGADT1.us@SD",WAGA-DT1
+https://dvrfl03.bozztv.com/hondu/hondu-rick-fox5/index.m3u8
+
+#EXTINF:-1 tvg-id="TheNest.us",The Nest
+https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
+
+#EXTINF:-1 tvg-id="TBN.us@East",TBN
+https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="AtlantaChannel.us@SD",Atlanta Channel
+https://live20.bozztv.com/dvrfl05/gin-atlantachannel/index.m3u8
+
+#EXTINF:-1 tvg-id="PixLTV.us",PixL TV
+https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
+
+#EXTINF:-1 tvg-id="TheCowboyChannel.us",The Cowboy Channel
+https://fl3.moveonjoy.com/Cowboy_Channel/index.m3u8
+
+#EXTINF:-1 tvg-id="MeTV.us",MeTV
+https://fl3.moveonjoy.com/ME_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="USANetworkLatinAmerica.us",USA Network Latin America
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
+
+#EXTINF:-1 tvg-id="RealAmericasVoice.us",Real America's Voice (720p)
+https://jmp2.uk/sam-USBB1900002KF.m3u8
+
+#EXTINF:-1 tvg-id="NYXT.us",NYXT (1080p)
+https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8
