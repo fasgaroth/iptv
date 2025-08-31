@@ -1,2 +1,2 @@
 ## Best IP TV List
-This want to be the list of best English TV with low bitrates.
+This pretends to be the best list of English TV Channels with low bitrates.

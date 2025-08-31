@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="FoxNewsChannel.us",Fox News Channel (720p)
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/250px-Fox_News_Channel_logo.svg.png",Fox News Channel (720p)
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-logo="https://i.imgur.com/kGUR6NE.png" group-title="News",MSNBC (720p)
