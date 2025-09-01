@@ -6,8 +6,20 @@ https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-logo="https://i.imgur.com/kGUR6NE.png" group-title="News",MSNBC (720p)
 http://41.205.93.154/MSNBC/index.m3u8
 
-#EXTINF:-1 tvg-id="WSBDT1.us@SD",WSB-DT1
+#EXTINF:-1 tvg-id="WSBDT1.us@SD",US WSB-DT1
 https://dvrfl03.bozztv.com/hondu/hondu-rick-abc/index.m3u8
+
+#EXTINF:-1 tvg-id="ABC_EAST.us",US ABC EAST
+http://143.244.60.30/ABC_EAST/index.m3u8
+
+#EXTINF:-1 tvg-id="NBC_EAST.us",US NBC EAST
+http://143.244.60.30/NBC_EAST/index.m3u8
+
+#EXTINF:-1 tvg-id="BET_HER.us",US BET HER
+http://fl3.moveonjoy.com/BET_HER/index.m3u8
+
+#EXTINF:-1 tvg-id="COMEDY_CENTRAL.us",US Comedy Central
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 
 #EXTINF:-1 tvg-id="AXSTV.us",AXS TV
 https://fl3.moveonjoy.com/Axs_TV/index.m3u8
