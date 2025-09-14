@@ -72,11 +72,29 @@ https://linear-73.frequency.stream/dist/24i/73/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us",US Movie Sphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Choppertown.us",US Chopper Town
+https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="WHSGDT4.us@SD",US WHSG-DT4
 https://dvrfl03.bozztv.com/hondu/hondu-ovair1-enlacetv-atl/index.m3u8
 
 #EXTINF:-1 tvg-id="Decades.us@SD",Decades
 https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-decades/index.m3u8
+
+#EXTINF:-1 tvg-id="DontTellBride.uk@SD",UK Dont Tell Bride
+https://lds-donttellbride-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mythbusters.us@SD",Mythbusters
+https://amg00627-amg00627c14-rakuten-uk-4802.playouts.now.amagi.tv/index.m3u8
+
+#EXTINF:-1 tvg-id="WeTV.us@SD",US WE TV
+http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/WE_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="TrueHistory.us",US True History
+https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ViceTV.us",US Vice TV
+https://vicetv-vicefast1-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PositivTV.us@SD",Positiv TV
 https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8
