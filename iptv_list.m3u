@@ -36,25 +36,43 @@ https://dvrfl03.bozztv.com/hondu/hondu-gbp-pbs/index.m3u8
 #EXTINF:-1 tvg-id="ABCME.au@Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/ABC_Entertains_logo.svg",AU ABC Entertains
 https://c.mjh.nz/abc-me.m3u8
 
-#EXTINF:-1 tvg-id="WUPADT1.us@SD",WUPA-DT1
+#EXTINF:-1 tvg-id="WUPADT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/WUPA_Atlanta69_2023.svg",US CBS Atlanta
 https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8
 
-#EXTINF:-1 tvg-id="NBC.us",NBC
+#EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/7/7a/20230610005806%21NBC_logo_2022_%28vertical%29.svg",US NBC
 https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
 
-#EXTINF:-1 tvg-id="ABC.us",ABC
+#EXTINF:-1 tvg-id="ABC.us",US ABC
 http://41.205.93.154/ABC/index.m3u8
 
-#EXTINF:-1 tvg-id="CNBCWorld.us",CNBC World
+#EXTINF:-1 tvg-id="KCWECW.us",US KCWECW
+https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
+
+#EXTINF:-1 tvg-id="KCWX.us",US KCWX
+http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WWONTV.us",US WWON-TV
+https://tv2.fastcast4u.com:3943/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="POPSTARTV.us",US Popstar!TV
+https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNBCWorld.us",US CNBC World
 https://fl3.moveonjoy.com/CNBC_World/index.m3u8
 
-#EXTINF:-1 tvg-id="TeenNick.us",TeenNick
+#EXTINF:-1 tvg-id="TeenNick.us",US TeenNick
 https://fl3.moveonjoy.com/Teen_Nick/index.m3u8
 
-#EXTINF:-1 tvg-id="WKMGDT1.us@SD",WKMG-DT1
-https://dvrfl03.bozztv.com/hondu-cbsorlando/index.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.us",US My Time Movie Network
+https://mytime-tcl.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WHSGDT4.us@SD",WHSG-DT4
+#EXTINF:-1 tvg-id="RevryHer.us",US Revry Her
+https://linear-73.frequency.stream/dist/24i/73/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MovieSphere.us",US Movie Sphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WHSGDT4.us@SD",US WHSG-DT4
 https://dvrfl03.bozztv.com/hondu/hondu-ovair1-enlacetv-atl/index.m3u8
 
 #EXTINF:-1 tvg-id="Decades.us@SD",Decades
@@ -86,6 +104,9 @@ https://c.mjh.nz/abc-news.m3u8
 
 #EXTINF:-1 tvg-id="",ABN Freedom of Speech
 https://mediaserver.abnvideos.com/streams/freedom_of_speech.m3u8
+
+#EXTINF:-1 tvg-id="KATC-DT1.us",KATC-DT1
+https://livetv-fa.tubi.video/katc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlbdreamsTV.us",AlbDreams TV (720p)
 http://live.albavision.net:1123/live/albdreams.m3u8
@@ -162,6 +183,9 @@ https://dvrfl03.bozztv.com/hondu/hondu-rick-fox5/index.m3u8
 #EXTINF:-1 tvg-id="TheNest.us",The Nest
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 
+#EXTINF:-1 tvg-id="Timeline.us",US Timeline
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TBN.us@East",TBN
 https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8
 
@@ -182,6 +206,9 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
 
 #EXTINF:-1 tvg-id="RealAmericasVoice.us",Real America's Voice (720p)
 https://jmp2.uk/sam-USBB1900002KF.m3u8
+
+#EXTINF:-1 tvg-id="WKMGDT1.us@SD",WKMG-DT1
+https://dvrfl03.bozztv.com/hondu-cbsorlando/index.m3u8
 
 #EXTINF:-1 tvg-id="NYXT.us",NYXT (1080p)
 https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8
