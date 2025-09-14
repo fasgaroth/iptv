@@ -1,73 +1,43 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/250px-Fox_News_Channel_logo.svg.png",Fox News Channel (720p)
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/250px-Fox_News_Channel_logo.svg.png",US Fox News Channel
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 
-#EXTINF:-1 tvg-id="MSNBC.us" tvg-logo="https://i.imgur.com/kGUR6NE.png" group-title="News",MSNBC (720p)
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-logo="https://i.imgur.com/kGUR6NE.png" group-title="News",US MSNBC
 http://41.205.93.154/MSNBC/index.m3u8
 
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" group-title="News",UK GB News
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WSBDT1.us@SD",US WSB-DT1
+#EXTINF:-1 tvg-id="WSBDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/WSB-TV_2_logo.png",US WSB-DT1
 https://dvrfl03.bozztv.com/hondu/hondu-rick-abc/index.m3u8
 
-#EXTINF:-1 tvg-id="ABC_EAST.us",US ABC EAST
-http://143.244.60.30/ABC_EAST/index.m3u8
-
-#EXTINF:-1 tvg-id="NBC_EAST.us",US NBC EAST
-http://143.244.60.30/NBC_EAST/index.m3u8
-
-#EXTINF:-1 tvg-id="BET_HER.us",US BET HER
-http://fl3.moveonjoy.com/BET_HER/index.m3u8
-
-#EXTINF:-1 tvg-id="VH1.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png",VH1 East
-https://fl3.moveonjoy.com/VH1/index.m3u8
-
-#EXTINF:-1 tvg-id="COMEDY_CENTRAL.us",US Comedy Central
-http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-
-#EXTINF:-1 tvg-id="AXSTV.us",AXS TV
-https://fl3.moveonjoy.com/Axs_TV/index.m3u8
-
-#EXTINF:-1 tvg-id="Channel44.au" tvg-logo="https://i.imgur.com/P2wUGh9.png" group-title="General",Australia Channel 44
+#EXTINF:-1 tvg-id="Channel44.au" tvg-logo="https://i.imgur.com/P2wUGh9.png" group-title="General",AU Channel 44
 https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
 
-#EXTINF:-1 tvg-id="FUELTV.at" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="Sports",Australia FUEL TV
-https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
-
-#EXTINF:-1 tvg-id="Channel4.uk@UKHD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png" group-title="General",UK Channel 4 HD
+#EXTINF:-1 tvg-id="Channel4.uk@UKHD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png" group-title="General",UK Channel 4
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
 
-#EXTINF:-1 tvg-id="More4.uk@HD" tvg-logo="https://i.imgur.com/cx5YcAU.png" group-title="Entertainment",UK More4 HD
+#EXTINF:-1 tvg-id="More4.uk@HD" tvg-logo="https://i.imgur.com/cx5YcAU.png" group-title="Entertainment",UK More4
 https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8
 
 #EXTINF:-1 tvg-id="Channel5.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png" group-title="General",UK Channel 5 HD
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
 
-#EXTINF:-1 tvg-id="BBCTwo.uk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="General",UK BBC Two HD
+#EXTINF:-1 tvg-id="BBCTwo.uk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="General",UK BBC Two
 https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
 
 #EXTINF:-1 tvg-id="Film4.uk@HD" tvg-logo="https://i.imgur.com/MTSgoGI.png" group-title="Movies",UK Film4 HD
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 
-#EXTINF:-1 tvg-id="WLVTDT1.us@SD",WLVT-DT1
+#EXTINF:-1 tvg-id="WLVTDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/WLVT-TV_2003.svg",US WLVT Channel 39
 https://dvrfl03.bozztv.com/hondu/hondu-gbp-pbs/index.m3u8
 
-#EXTINF:-1 tvg-id="HallmarkMoviesMysteries.us@East" tvg-logo="https://i.imgur.com/GPRGA9C.png" group-title="Movies",Hallmark Movies Mysteries East
-https://fl3.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
-
-#EXTINF:-1 tvg-id="ABCME.au@Sydney",ABC Me Sydney (720p)
+#EXTINF:-1 tvg-id="ABCME.au@Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/ABC_Entertains_logo.svg",AU ABC Entertains
 https://c.mjh.nz/abc-me.m3u8
 
 #EXTINF:-1 tvg-id="WUPADT1.us@SD",WUPA-DT1
 https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8
-
-#EXTINF:-1 tvg-id="WOLODT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="Undefined",WOLO-DT1 ABC 25 (Columbia SC) (720p)
-http://143.244.60.30/ABC_EAST/index.m3u8
-
-#EXTINF:-1 tvg-id="WBZDT1.us" tvg-logo="https://i.imgur.com/NC5qL8u.png" group-title="News",WBZ-DT1 (720p)
-http://143.244.60.30/CBSEAST/index.m3u8
 
 #EXTINF:-1 tvg-id="NBC.us",NBC
 https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
