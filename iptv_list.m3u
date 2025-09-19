@@ -27,6 +27,9 @@ https://mytime-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us",US Movie Sphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Film4.uk@HD" tvg-logo="https://i.imgur.com/MTSgoGI.png" group-title="Movies",UK Film4 HD
+https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
+
 
 ## Best Series Channels
 
@@ -56,9 +59,6 @@ https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
 
 #EXTINF:-1 tvg-id="BBCTwo.uk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="General",UK BBC Two
 https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
-
-#EXTINF:-1 tvg-id="Film4.uk@HD" tvg-logo="https://i.imgur.com/MTSgoGI.png" group-title="Movies",UK Film4 HD
-https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 
 #EXTINF:-1 tvg-id="WLVTDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/WLVT-TV_2003.svg",US WLVT Channel 39
 https://dvrfl03.bozztv.com/hondu/hondu-gbp-pbs/index.m3u8
