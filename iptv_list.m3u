@@ -18,6 +18,9 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-sa
 #EXTINF:-1 tvg-id="WSBDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/WSB-TV_2_logo.png",US WSB-DT1
 https://dvrfl03.bozztv.com/hondu/hondu-rick-abc/index.m3u8
 
+#EXTINF:-1 tvg-id="WUPADT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/WUPA_Atlanta69_2023.svg",US CBS Atlanta
+https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8
+
 
 ## Best Movie Channels
 
@@ -65,9 +68,6 @@ https://dvrfl03.bozztv.com/hondu/hondu-gbp-pbs/index.m3u8
 
 #EXTINF:-1 tvg-id="ABCME.au@Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/ABC_Entertains_logo.svg",AU ABC Entertains
 https://c.mjh.nz/abc-me.m3u8
-
-#EXTINF:-1 tvg-id="WUPADT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/WUPA_Atlanta69_2023.svg",US CBS Atlanta
-https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8
 
 #EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/7/7a/20230610005806%21NBC_logo_2022_%28vertical%29.svg",US NBC
 https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
