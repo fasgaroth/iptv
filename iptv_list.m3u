@@ -18,8 +18,14 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-sa
 #EXTINF:-1 tvg-id="WSBDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/WSB-TV_2_logo.png",US WSB-DT1
 https://dvrfl03.bozztv.com/hondu/hondu-rick-abc/index.m3u8
 
+#EXTINF:-1 tvg-id="KCWECW.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/KCWE_2024.svg/250px-KCWE_2024.svg.png",US KCWE Kansas City's Own
+https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
+
 #EXTINF:-1 tvg-id="WUPADT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/WUPA_Atlanta69_2023.svg",US CBS Atlanta
 https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8
+
+#EXTINF:-1 tvg-id="KCWX.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/KCWX_2024.svg/330px-KCWX_2024.svg.png",US KCWX
+http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 
 
 ## Best Movie Channels
@@ -38,6 +44,9 @@ https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 
 #EXTINF:-1 tvg-id="POPSTARTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/Popstars_UK.jpg",US Popstar!TV
 https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WeTV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Wetv-july-2024-logo.svg",US WE TV
+http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/WE_TV/index.m3u8
 
 
 ## Best Reality Channels
@@ -75,12 +84,6 @@ https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
 #EXTINF:-1 tvg-id="ABC.us",US ABC
 http://41.205.93.154/ABC/index.m3u8
 
-#EXTINF:-1 tvg-id="KCWECW.us",US KCWECW
-https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
-
-#EXTINF:-1 tvg-id="KCWX.us",US KCWX
-http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="WWONTV.us",US WWON-TV
 https://tv2.fastcast4u.com:3943/stream/play.m3u8
 
@@ -98,9 +101,6 @@ https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-decades/index.m3u8
 
 #EXTINF:-1 tvg-id="DontTellBride.uk@SD",UK Dont Tell Bride
 https://lds-donttellbride-rakuten.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WeTV.us@SD",US WE TV
-http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/WE_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="TrueHistory.us",US True History
 https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
