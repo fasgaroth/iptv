@@ -6,7 +6,7 @@
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/250px-Fox_News_Channel_logo.svg.png",US Fox News Channel
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 
-#EXTINF:0 tvg-id="AbcNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/ABC_News_solid_black_logo.svg",AU ABC News
+#EXTINF:0 tvg-id="AbcNews" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/ABC_News_%28Australia%29_logo.svg/640px-ABC_News_%28Australia%29_logo.svg.png",AU ABC News
 https://c.mjh.nz/abc-news.m3u8
 
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" group-title="News",UK GB News
@@ -33,7 +33,7 @@ http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.us" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png",US My Time Movie Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RevryHer.us",US Revry Her tvg-logo="https://en.wikipedia.org/wiki/Revry#/media/File:Revry.jpg"
+#EXTINF:-1 tvg-id="RevryHer.us" tvg-logo="https://en.wikipedia.org/wiki/Revry#/media/File:Revry.jpg",US Revry Her
 https://linear-73.frequency.stream/dist/24i/73/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MovieSphere.us",US Movie Sphere
