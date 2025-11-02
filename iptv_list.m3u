@@ -21,7 +21,7 @@ https://dvrfl03.bozztv.com/hondu/hondu-rick-abc/index.m3u8
 #EXTINF:-1 tvg-id="KCWECW.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/KCWE_2024.svg/250px-KCWE_2024.svg.png",US KCWE Kansas City's Own
 https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
 
-#EXTINF:-1 tvg-id="WUPADT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/WUPA_Atlanta69_2023.svg",US CBS Atlanta
+#EXTINF:-1 tvg-id="WUPADT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CBS_Atlanta_logo.svg/640px-CBS_Atlanta_logo.svg.png",US CBS Atlanta
 https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8
 
 #EXTINF:-1 tvg-id="KCWX.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/KCWX_2024.svg/330px-KCWX_2024.svg.png",US KCWX
@@ -33,7 +33,7 @@ http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.us" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png",US My Time Movie Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RevryHer.us" tvg-logo="https://en.wikipedia.org/wiki/Revry#/media/File:Revry.jpg",US Revry Her
+#EXTINF:-1 tvg-id="RevryHer.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Revry.jpg/960px-Revry.jpg",US Revry Her
 https://linear-73.frequency.stream/dist/24i/73/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MovieSphere.us",US Movie Sphere
