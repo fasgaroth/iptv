@@ -6,8 +6,8 @@
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/250px-Fox_News_Channel_logo.svg.png",US Fox News Channel
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 
-#EXTINF:-1 tvg-id="MSNBC.us" tvg-logo="https://i.imgur.com/kGUR6NE.png" group-title="News",US MSNBC
-http://41.205.93.154/MSNBC/index.m3u8
+#EXTINF:0 tvg-id="AbcNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/ABC_News_solid_black_logo.svg",AU ABC News
+https://c.mjh.nz/abc-news.m3u8
 
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" group-title="News",UK GB News
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
@@ -32,6 +32,9 @@ http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.us" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png",US My Time Movie Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RevryHer.us",US Revry Her tvg-logo="https://en.wikipedia.org/wiki/Revry#/media/File:Revry.jpg"
+https://linear-73.frequency.stream/dist/24i/73/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MovieSphere.us",US Movie Sphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
@@ -87,9 +90,6 @@ http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1 tvg-id="WWONTV.us",US WWON-TV
 https://tv2.fastcast4u.com:3943/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="RevryHer.us",US Revry Her
-https://linear-73.frequency.stream/dist/24i/73/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Choppertown.us",US Chopper Town
 https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
 
@@ -128,9 +128,6 @@ https://xumo-xumoent-ch825-ku23q.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-id="Journy.us",Journy (720p)
 https://linear-291.frequency.stream/dist/ovationtv/291/hls/master/playlist.m3u8
-
-#EXTINF:0,ABC News
-https://c.mjh.nz/abc-news.m3u8
 
 #EXTINF:-1 tvg-id="",ABN Freedom of Speech
 https://mediaserver.abnvideos.com/streams/freedom_of_speech.m3u8
