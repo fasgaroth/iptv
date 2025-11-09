@@ -30,14 +30,20 @@ http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 
 ## Best Movie Channels
 
-#EXTINF:-1 tvg-id="MyTimeMovieNetwork.us" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png",US My Time Movie Network
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.us" group-title="Movies" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png",US My Time Movie Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RevryHer.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Revry.jpg/960px-Revry.jpg",US Revry Her
-https://linear-73.frequency.stream/dist/24i/73/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Circle.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/512px-Circle_Network_logo.svg.png" group-title="Entertainment",US Circle
+https://circle-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MovieSphere.us",US Movie Sphere
+#EXTINF:-1 tvg-id="MovieSphere.us" group-title="Movies",US Movie Sphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CineLife.us" tvg-logo="https://i.imgur.com/RIUNuMQ.png" group-title="Movies",US CineLife
+https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RevryHer.us" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Revry.jpg/960px-Revry.jpg",US Revry Her
+https://linear-73.frequency.stream/dist/24i/73/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Film4.uk@HD" tvg-logo="https://i.imgur.com/MTSgoGI.png" group-title="Movies",UK Film4 HD
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
@@ -248,12 +254,6 @@ https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlis
 
 #EXTINF:-1 tvg-id="NOWRock.uk" tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="Music",UK NOW Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Circle.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/512px-Circle_Network_logo.svg.png" group-title="Entertainment",US Circle
-https://circle-vizio.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CineLife.us" tvg-logo="https://i.imgur.com/RIUNuMQ.png" group-title="Movies",US CineLife
-https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DiscoverFilm.us" tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="Movies",UK Discover Film
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
