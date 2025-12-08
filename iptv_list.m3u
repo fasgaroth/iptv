@@ -15,18 +15,13 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-sa
 
 ## Best General Channels
 
-#EXTINF:-1 tvg-id="WSBDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/WSB-TV_2_logo.png",US WSB-DT1
-https://dvrfl03.bozztv.com/hondu/hondu-rick-abc/index.m3u8
-
-#EXTINF:-1 tvg-id="KCWECW.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/KCWE_2024.svg/250px-KCWE_2024.svg.png",US KCWE Kansas City's Own
-https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
-
-#EXTINF:-1 tvg-id="WUPADT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CBS_Atlanta_logo.svg/640px-CBS_Atlanta_logo.svg.png",US CBS Atlanta
-https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8
-
 #EXTINF:-1 tvg-id="KCWX.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/KCWX_2024.svg/330px-KCWX_2024.svg.png",US KCWX
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 
+## History Channels
+
+#EXTINF:-1 tvg-id="TrueHistory.us",US True History
+https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
 
 ## Best Movie Channels
 
@@ -47,6 +42,9 @@ https://linear-73.frequency.stream/dist/24i/73/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Film4.uk@HD" tvg-logo="https://i.imgur.com/MTSgoGI.png" group-title="Movies",UK Film4 HD
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
+
+#EXTINF:0,Alfred Hitchcock Presents
+https://xumo-xumoent-ch825-ku23q.fast.nbcuni.com/live/master.m3u8
 
 
 ## Best Series Channels
@@ -108,9 +106,6 @@ https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-decades/index.m3u8
 #EXTINF:-1 tvg-id="DontTellBride.uk@SD",UK Dont Tell Bride
 https://lds-donttellbride-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TrueHistory.us",US True History
-https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ViceTV.us",US Vice TV
 https://vicetv-vicefast1-firetv.amagi.tv/playlist.m3u8
 
@@ -128,9 +123,6 @@ https://dvrfl04.tulix.tv/teleup-bbca/index.m3u8
 
 #EXTINF:-1 tvg-id="WGCLDT1.us@SD",WGCL-DT1
 https://live20.bozztv.com/dvrfl05/gin-cbs/index.m3u8
-
-#EXTINF:0,Alfred Hitchcock Presents
-https://xumo-xumoent-ch825-ku23q.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-id="Journy.us",Journy (720p)
 https://linear-291.frequency.stream/dist/ovationtv/291/hls/master/playlist.m3u8
@@ -243,7 +235,16 @@ https://jmp2.uk/sam-USBB1900002KF.m3u8
 #EXTINF:-1 tvg-id="WKMGDT1.us@SD",WKMG-DT1
 https://dvrfl03.bozztv.com/hondu-cbsorlando/index.m3u8
 
-#EXTINF:-1 tvg-id="NYXT.us",NYXT (1080p)
+#EXTINF:-1 tvg-id="WSBDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/WSB-TV_2_logo.png",US WSB-DT1
+https://dvrfl03.bozztv.com/hondu/hondu-rick-abc/index.m3u8
+
+#EXTINF:-1 tvg-id="KCWECW.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/KCWE_2024.svg/250px-KCWE_2024.svg.png",US KCWE Kansas City's Own
+https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
+
+#EXTINF:-1 tvg-id="WUPADT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CBS_Atlanta_logo.svg/640px-CBS_Atlanta_logo.svg.png",US CBS Atlanta
+https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8
+
+#EXTINF:-1 tvg-id="NYXT.us",NYXT
 https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8
 
 #EXTINF:-1 tvg-id="GREATmovies.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3709.png" group-title="Movies",UK GREAT! movies
