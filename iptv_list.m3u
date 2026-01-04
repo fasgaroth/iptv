@@ -18,6 +18,10 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-sa
 #EXTINF:-1 tvg-id="KCWX.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/KCWX_2024.svg/330px-KCWX_2024.svg.png",US KCWX
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="WFTSDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="News",WFTS-DT1
+https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8
+
+
 ## History Channels
 
 #EXTINF:-1 tvg-id="TrueHistory.us",US True History
