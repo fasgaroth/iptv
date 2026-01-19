@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTM3U x-tvg-url="https://epg.pw/api/epg.xml"
+#EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?channel_id=7363,https://epg.pw/api/epg.xml?channel_id=465372"
 
 #EXTINF:-1 tvg-id="7363" tvg-name="English_Club_TV" tvg-logo="https://i.postimg.cc/cCYVhnrT/englishclubtv.png" group-title="Education",English Club TV
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 
-#EXTINF:-1 tvg-id="465372" tvg-name="Fox_News_Channel_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/250px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel HD
+#EXTINF:-1 tvg-id="465372" tvg-name="465372" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/250px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel HD
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 
-#EXTINF:-1 tvg-id="WFTSDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="General",US ABC WFTS-DT1
+#EXTINF:-1 tvg-id="WFTSDT1.us@SD" tvg-url="https://epg.pw/api/epg.xml?channel_id=469473" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="General",US ABC WFTS-DT1
 https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8
 
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.us" group-title="Movies" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png",US My Time Movie Network
