@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="7363" tvg-name="English_Club_TV" tvg-logo="https://i.postimg.cc/cCYVhnrT/englishclubtv.png" group-title="Education",English Club TV
+#EXTINF:-1 tvg-id="7363" tvg-logo="https://i.postimg.cc/cCYVhnrT/englishclubtv.png" group-title="Education",English Club TV
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 
-#EXTINF:-1 tvg-id="465372" tvg-name="465372" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/250px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel HD
+#EXTINF:-1 tvg-id="465372" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/250px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel HD
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 
-#EXTINF:-1 tvg-id="WFTSDT1.us" tvg-name"WFTS-DT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="General",US ABC WFTS-DT1
+#EXTINF:-1 tvg-id="468990" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="General",US ABC WFTS-DT1
 https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8
 
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.us" group-title="Movies" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png",US My Time Movie Network
@@ -16,19 +16,19 @@ https://mytime-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueHistory.us" group-title="Education",US True History
 https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CBSNewsBoston.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/WBZ-TV_CBS_News_Boston_logo.svg/640px-WBZ-TV_CBS_News_Boston_logo.svg.png" group-title="News",US CBS News Boston
+#EXTINF:-1 tvg-id="464941" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/WBZ-TV_CBS_News_Boston_logo.svg/640px-WBZ-TV_CBS_News_Boston_logo.svg.png" group-title="News",US CBS News Boston
 https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
 
-#EXTINF:-1 tvg-id="GBNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" group-title="News",UK GB News
+#EXTINF:-1 tvg-id="486797" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" group-title="News",UK GB News
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KCWX.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/KCWX_2024.svg/330px-KCWX_2024.svg.png" group-title="General",US KCWX
+#EXTINF:-1 tvg-id="467596" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/KCWX_2024.svg/330px-KCWX_2024.svg.png" group-title="General",US KCWX
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Charge.us@SD" group-title="General",US Charge!
+#EXTINF:-1 tvg-id="465085" group-title="General",US Charge!
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 
-#EXTINF:-1 tvg-id="BounceXL.us@SD" group-title="General",US Bounce XL
+#EXTINF:-1 tvg-id="465292" group-title="General",US Bounce XL
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ABCTV.au@ACT" tvg-logo="https://i.imgur.com/DPVQSjM.png" group-title="General",AU ABC ACT
@@ -37,19 +37,19 @@ https://c.mjh.nz/abc-act.m3u8
 #EXTINF:-1 tvg-id="ABCTV.au@NSW" tvg-logo="https://i.imgur.com/DPVQSjM.png" group-title="General",AU ABC NSW
 https://c.mjh.nz/abc-nsw.m3u8
 
-#EXTINF:-1 tvg-id="ITV2.uk@SD" tvg-logo="https://i.imgur.com/2BpUK0W.png" group-title="General",UK ITV2
+#EXTINF:-1 tvg-id="486858" tvg-logo="https://i.imgur.com/2BpUK0W.png" group-title="General",UK ITV2
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
 
-#EXTINF:-1 tvg-id="ITV3.uk@SD" tvg-logo="https://i.imgur.com/JuyM2z5.png" group-title="Entertainment",UK ITV3
+#EXTINF:-1 tvg-id="486726" tvg-logo="https://i.imgur.com/JuyM2z5.png" group-title="Entertainment",UK ITV3
 https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
 
-#EXTINF:-1 tvg-id="Comet.us@SD",US Comet
+#EXTINF:-1 tvg-id="465305",US Comet
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 
-#EXTINF:-1 tvg-id="Circle.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/512px-Circle_Network_logo.svg.png" group-title="Entertainment",US Circle
+#EXTINF:-1 tvg-id="464749" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/512px-Circle_Network_logo.svg.png" group-title="Entertainment",US Circle Country
 https://circle-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MovieSphere.us" group-title="Movies",US Movie Sphere
+#EXTINF:-1 tvg-id="105812" group-title="Movies",US Movie Sphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CineLife.us" tvg-logo="https://i.imgur.com/RIUNuMQ.png" group-title="Movies",US CineLife
@@ -58,22 +58,22 @@ https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/C
 #EXTINF:-1 tvg-id="RevryHer.us" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Revry.jpg/960px-Revry.jpg",US Revry Her
 https://linear-73.frequency.stream/dist/24i/73/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Film4.uk@HD" tvg-logo="https://i.imgur.com/MTSgoGI.png" group-title="Movies",UK Film4 HD
+#EXTINF:-1 tvg-id="486763" tvg-logo="https://i.imgur.com/MTSgoGI.png" group-title="Movies",UK Film4 HD
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 
 #EXTINF:0,Alfred Hitchcock Presents
 https://xumo-xumoent-ch825-ku23q.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel
+#EXTINF:-1 tvg-id="465349",US Disney Channel
 https://fl31.moveonjoy.com/DISNEY/index.m3u8
 
 #EXTINF:-1 tvg-id="POPSTARTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/Popstars_UK.jpg",US Popstar!TV
 https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WeTV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Wetv-july-2024-logo.svg",US WE TV
+#EXTINF:-1 tvg-id="464955" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Wetv-july-2024-logo.svg",US WE TV
 http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/WE_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="ComedyCentral.us@East",Comedy Central
+#EXTINF:-1 tvg-id="464922",US Comedy Central
 https://fl1.moveonjoy.com/Comedy_Central/index.m3u8
 
 #EXTINF:-1 tvg-id="Mythbusters.us@SD",Mythbusters
